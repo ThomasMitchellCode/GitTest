@@ -16,8 +16,82 @@ Hello world. I am pushing to github without consideration YOLO
 
 I'll have you know that Python is actually a very good programming language... 🤣
 
+
+
+
+
+:OOOOO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Changes made on YashDev on line 200
 
 LiamDev wrote this
 
+
+
+
+I'm making some crazy changes to this Documentation ! ;O    - Ignas
+=======
 There's more to life than coding.
