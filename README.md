@@ -1,14 +1,8 @@
 # GitTest
 
+Changes made on AbdullahDev branch on line 2
+
 Changes made on robertdev branch on line 2
-
-
-
-
-
-
-
-
 
 
 ### Hanibal Change
@@ -34,127 +28,7 @@ Receiving objects: 100% (78/78), 15.52 KiB | 1.19 MiB/s, done.
 Resolving deltas: 100% (18/18), done.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+:OOOOO
 
 
 
@@ -223,3 +97,9 @@ Changes made on YashDev on line 200
 
 LiamDev wrote this
 
+
+
+
+I'm making some crazy changes to this Documentation ! ;O    - Ignas
+=======
+There's more to life than coding.
