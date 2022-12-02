@@ -2,6 +2,12 @@
 
 Changes made on robertdev branch on line 2
 
+Emre was here 2k22
+
+annoying edit
+
+try merging this
+=======
 
 ### Hanibal Change
 
@@ -13,21 +19,5 @@ Hello world. I am pushing to github without consideration YOLO
 
 
 I'll have you know that Python is actually a very good programming language... 🤣
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 LiamDev wrote this
