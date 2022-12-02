@@ -1,14 +1,8 @@
 # GitTest
 
+Changes made on AbdullahDev branch on line 2
+
 Changes made on robertdev branch on line 2
-
-
-
-
-
-
-
-
 
 
 ### Hanibal Change
@@ -25,128 +19,8 @@ I'll have you know that Python is actually a very good programming language... ð
 
 
 
+
 :OOOOO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -219,3 +93,5 @@ LiamDev wrote this
 
 
 I'm making some crazy changes to this Documentation ! ;O    - Ignas
+=======
+There's more to life than coding.
