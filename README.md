@@ -24,6 +24,14 @@ I'll have you know that Python is actually a very good programming language... ð
 
 
 
+$ git clone https://github.com/ThomasMitchellCode/GitTest.git
+Cloning into 'GitTest'...
+remote: Enumerating objects: 78, done.
+remote: Counting objects: 100% (78/78), done.
+remote: Compressing objects: 100% (75/75), done.
+remote: Total 78 (delta 18), reused 43 (delta 0), pack-reused 0
+Receiving objects: 100% (78/78), 15.52 KiB | 1.19 MiB/s, done.
+Resolving deltas: 100% (18/18), done.
 
 
 
